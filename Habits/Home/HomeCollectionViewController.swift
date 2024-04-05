@@ -9,7 +9,6 @@ import UIKit
 
 private let reuseIdentifier = "Cell"
 
-//Look at the changes
 
 class HomeCollectionViewController: UICollectionViewController {
     
