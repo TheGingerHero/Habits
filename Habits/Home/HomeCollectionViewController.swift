@@ -11,6 +11,8 @@ private let reuseIdentifier = "Cell"
 
 //Look at the changes
 
+//What changes
+
 class HomeCollectionViewController: UICollectionViewController {
     
     var userRequestTask: Task<Void, Never>? = nil
