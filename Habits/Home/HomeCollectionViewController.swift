@@ -10,6 +10,8 @@ import UIKit
 private let reuseIdentifier = "Cell"
 
 
+//What changes
+
 class HomeCollectionViewController: UICollectionViewController {
     
     var userRequestTask: Task<Void, Never>? = nil
